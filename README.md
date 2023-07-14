@@ -1,4 +1,4 @@
-# customer restaurant
+# Customer Restaurant
 
 ### customer restaurant
 - made with react
