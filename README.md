@@ -8,4 +8,4 @@
 - back end (node)
 
 #### Home
-![preview img](./src/assets/Img-GitHub/Dashboard)
+![preview img](.\src\assets\Img-GitHub/Dashboard)
